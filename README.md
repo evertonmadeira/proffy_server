@@ -1,4 +1,4 @@
-![Logo](logo.svg)
+![logo](https://user-images.githubusercontent.com/42476488/92246737-8f050080-ee9c-11ea-94a1-1946e8cc4ef8.png)
 
 Primeira parte de um total de três do projeto Proffy, esta plataforma possui o objetivo de conectar pessoas que estão interessadas em aprender ou ensinar qualquer matéria.
 
@@ -24,16 +24,16 @@ Este repositório consiste na api back end que irá prover o sistema, mais detal
 ### :construction_worker: Instalação
   Presumindo que você possui o node e yarn instalado em sua máquina, clone o repositório com o seguinte comando: 
   ```
-  git clone https://github.com/evertonmadeira/proffy_web
+  git clone https://github.com/evertonmadeira/proffy_server
   ```
   Em seguida abra a pasta clonada e inicie o yarn para instalar as dependências do projeto: 
   ```
-  cd proffy_web
+  cd proffy_server
   yarn
   ```
   Para rodar o servidor digite em seu terminal o seguinte comando:
   ```
-  yarn dev:server
+  yarn start
   ```
 ### :iphone: Contato
   [LinkedIn](https://www.linkedin.com/in/evertonmadeira/)
